@@ -1,2 +1,2 @@
-FROM ubuntu
+FROM ubuntu:16.04
 RUN echo "Hello World"
